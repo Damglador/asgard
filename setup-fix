@@ -8,6 +8,7 @@
 Make sure you extracted files from the ISO image and made them writable.\n" && exit
 
 sed -i 's|`\([^`]*\)`|$(\1)|g'                  "$1"
+sed -i 's|function \(.*\) {|\1() {|g'           "$1"
 sed -i 's|function \(.*\)|\1()|g'               "$1"
 sed -i 's|fgrep|grep -F|g'                      "$1"
 sed -i 's|\$\*|"\$\@"|g'                        "$1"
