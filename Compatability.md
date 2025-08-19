@@ -21,3 +21,19 @@
 | sof_demo       | 🔴     |                                                                                                                                           |
 
 Last tested on Arch Linux in 2025/06/19 on commit `aae6524`, with `xorg-xwayland 24.1.8-1` and `osspd 1.3.3-2`.
+
+| Game      | Full name                                                 |
+| --------- | --------------------------------------------------------- |
+| civctp    | Civilization: Call To Power                               |
+| descent3  | Descent 3                                                 |
+| eus       | Eric's Ultimate Solitaire                                 |
+| heretic2  | Heretic II                                                |
+| heroes3   | Heroes of Might and Magic III: The Restoration of Erathia |
+| hg2       | Heavy Gear II                                             |
+| kohan     | Kohan: Immortal Sovereigns                                |
+| mindrover | MindRover: The Europa Project                             |
+| myth2     | Myth II                                                   |
+| rt2       | Railroad Tycoon II                                        |
+| sc3u      | SimCity 3000 Unlimited                                    |
+| smacx     | Sid Meier's Alien Crossfire                               |
+| sof       | Soldier of Fortune                                        |
